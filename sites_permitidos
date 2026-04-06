@@ -1,0 +1,84 @@
+# [GOVERNO FEDERAL & FISCAL]
+@@||gov.br^$important
+@@||fazenda.gov.br^$important
+@@||receita.fazenda.gov.br^$important
+@@||esocial.gov.br^$important
+@@||caixa.gov.br^$important
+@@||fgts.gov.br^$important
+@@||nfe.fazenda.gov.br^$important
+
+# [ESTADUAIS - SEFAZ & SERVIÇOS]
+## Mato Grosso (MT)
+@@||sefaz.mt.gov.br^$important
+@@||mt.gov.br^$important
+## Goiás (GO)
+@@||sefaz.go.gov.br^$important
+@@||go.gov.br^$important
+## Mato Grosso do Sul (MS)
+@@||sefaz.ms.gov.br^$important
+@@||ms.gov.br^$important
+
+# [BANCÁRIO & FINANCEIRO]
+@@||itau.com.br^$important
+@@||bradesco.com.br^$important
+@@||santander.com.br^$important
+@@||bb.com.br^$important
+@@||bancobrasil.com.br^$important
+@@||pagseguro.uol.com.br^$important
+@@||cielo.com.br^$important
+
+# [SISTEMA OPERACIONAL & UPDATES]
+@@||windowsupdate.com^$important
+@@||update.microsoft.com^$important
+@@||delivery.mp.microsoft.com^$important
+@@||windows.com^$important
+
+# [ANTIVÍRUS & DEFENDER]
+@@||wdcp.microsoft.com^$important
+@@||definitionupdates.microsoft.com^$important
+
+# [CERTIFICADOS & SEGURANÇA SSL]
+@@||digicert.com^$important
+@@||sectigo.com^$important
+@@||letsencrypt.org^$important
+@@||ocsp.pki.goog^$important
+
+# [RECURSOS DE NAVEGADOR]
+@@||google-analytics.com^$important (Opcional: liberar apenas se sites de bancos/gov exigirem para carregar)
+@@||gstatic.com^$important
+@@||googleapis.com^$important
+
+# [LOGÍSTICA - BRASIL]
+@@||correios.com.br^$important
+@@||rastreamento.correios.com.br^$important
+@@||jadlog.com.br^$important
+@@||melhorenvio.com.br^$important
+
+# [PAGAMENTOS & ADQUIRENTES]
+@@||mercadopago.com.br^$important
+@@||userede.com.br^$important
+@@||getnet.com.br^$important
+@@||stone.com.br^$important
+
+# [COMUNICAÇÃO]
+@@||teams.microsoft.com^$important
+@@||zoom.us^$important
+@@||outlook.com^$important
+@@||gmail.com^$important
+
+# [FERRAMENTAS DE SUPORTE]
+@@||anydesk.com^$important
+@@||teamviewer.com^$important
+
+# [BOT CONVERSA]
+@@||mmg.whatsapp.net^$important
+# [SERVIÇOS & INFRAESTRUTURA]
+## botconversa
+@@||whatsapp-unnoficial-service-temp-storage-prod.s3.sa-east-1.amazonaws.com^$important
+@@||prod-media-bc.s3.sa-east-1.amazonaws.com^$important
+@@||data.pendo.io^$important
+@@||tools.luckyorange.com^$important
+@@||chatgpt.com^$important
+@@||settings.luckyorange.com^$important
+## TagOne
+@@||tagone-pro.s3.us-east-2.amazonaws.com^$important
