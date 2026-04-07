@@ -99,28 +99,33 @@
 @@||teamviewer.com^$important
 
 # [BOTCONVERSA - INFRAESTRUTURA COMPLETA]
-# Core e Domínios Principais
+  # Core e Domínios Principais
 @@||botconversa.com.br^$important
 @@||app.botconversa.com.br^$important
 @@||wa-media.botconversa.com.br^$important
-# Integrações de IA e Mensageria
+  # Integrações de IA e Mensageria
 @@||mmg.whatsapp.net^$important
 @@||chatgpt.com^$important
-# Armazenamento em Nuvem (AWS S3)
+  # Armazenamento em Nuvem (AWS S3)
 @@||prod-media-bc.s3.sa-east-1.amazonaws.com^$important
 @@||whatsapp-unnoficial-service-temp-storage-prod.s3.sa-east-1.amazonaws.com^$important
-# Suporte, HelpKit e Widgets
+  # Suporte, HelpKit e Widgets
 @@||onrender.com^$important
 @@||helpkit-strapi-production.onrender.com^$important
 @@||intercom.io^$important
 @@||js.intercomcdn.com^$important
 @@||omappapi.com^$important
-# Analytics, UX e Performance (Tags)
+@@||a.omappapi.com^$important
+  # Analytics, UX e Performance (Tags)
 @@||googletagmanager.com^$important
 @@||www.googletagmanager.com^$important
 @@||data.pendo.io^$important
 @@||tools.luckyorange.com^$important
 @@||settings.luckyorange.com^$important
+
+# [DOCUMENTAÇÃO E FERRAMENTAS DE DESENVOLVIMENTO]
+@@||reactrouter.com^$important
+@@||remix.run^$important
 
 ## TagOne
 @@||tagone-pro.s3.us-east-2.amazonaws.com^$important
