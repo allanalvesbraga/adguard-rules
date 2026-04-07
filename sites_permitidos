@@ -5,7 +5,17 @@
 @@||notion.new^$important
 @@||notion-static.com^$important
 @@||http-inputs-notion.splunkcloud.com^$important
-#----------------------------------------------------------------
+#========================================================================
+# [GITHUB - INFRAESTRUTURA E ENTREGA DE DADOS]
+@@||github.com^$important
+@@||github.io^$important
+@@||githubassets.com^$important
+@@||githubusercontent.com^$important
+@@||raw.githubusercontent.com^$important
+@@||api.github.com^$important
+@@||collector.github.com^$important
+@@||central.github.com^$important
+#========================================================================
 # [TAGONE TEF]???
 @@||static.cloudflareinsights.com^$important
 
