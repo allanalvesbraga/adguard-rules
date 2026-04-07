@@ -1,0 +1,29 @@
+# [GOOGLE - CORE & BUSCA]
+@@||google.com^$important
+@@||google.com.br^$important
+@@||www.google.com^$important
+
+# [GOOGLE - INFRAESTRUTURA E ESTÁTICOS (CRÍTICO)]
+@@||gstatic.com^$important
+@@||googleapis.com^$important
+@@||googleusercontent.com^$important
+@@||googlevideo.com^$important
+@@||gvt1.com^$important
+
+# [GMAIL & CONTAS - AUTENTICAÇÃO]
+@@||gmail.com^$important
+@@||mail.google.com^$important
+@@||accounts.google.com^$important
+@@||google.sh^$important
+
+# [GOOGLE DRIVE, DOCS & TRABALHO]
+@@||drive.google.com^$important
+@@||docs.google.com^$important
+@@||sheets.google.com^$important
+@@||slides.google.com^$important
+
+# [OUTROS SERVIÇOS]
+@@||youtube.com^$important
+@@||ytimg.com^$important
+@@||ggpht.com^$important
+@@||dns.google^$important
