@@ -1,0 +1,14 @@
+# [APPLE - SERVIÇOS E ATUALIZAÇÕES]
+@@||apple.com^$important
+@@||itunes.apple.com^$important
+@@||d.itunes.apple.com^$important
+@@||bag.itunes.apple.com^$important
+@@||icloud.com^$important
+@@||mzstatic.com^$important
+@@||apple-dns.net^$important
+
+# Entrega de Conteúdo e Downloads (Software Update)
+@@||swcdn.apple.com^$important
+@@||swdist.apple.com^$important
+@@||swdownload.apple.com^$important
+@@||swscan.apple.com^$important
