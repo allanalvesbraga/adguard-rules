@@ -1,0 +1,22 @@
+# [MARKETPLACES - BLOQUEIO GLOBAL]
+||shopee.com.br^
+||shopee.com^
+||shein.com.br^
+||shein.com^
+||aliexpress.com^
+||amazon.com.br^
+||amazon.com^
+||magazineluiza.com.br^
+||magalu.com.br^
+||casasbahia.com.br^
+||americanas.com.br^
+||submarino.com.br^
+||extra.com.br^
+||ponto.com.br^
+||kabum.com.br^
+||netshoes.com.br^
+
+# [REGRAS ESPECÍFICAS PARA REDE DAS LOJAS]
+# [MERCADO LIVRE - BLOQUEIO NAS LOJAS / LIBERADO NO ADM]
+||mercadolivre.com.br^$client=~192.168.99.0/24,~50.50.50.0/24
+||mercadolivre.com^$client=~192.168.99.0/24,~50.50.50.0/24
