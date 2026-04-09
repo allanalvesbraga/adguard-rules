@@ -50,3 +50,9 @@
 ||767.bet^$important
 ||vaidebet.com^$important
 ||*.bet^$important
+
+
+# [BLOQUEIO DE DNS SEGURO - FORÇA O USO DO ADGUARD]
+||use-application-dns.net^
+||mask.apple-dns.net^
+||mask-h2.apple-dns.net^
