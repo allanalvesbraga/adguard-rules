@@ -1,0 +1,40 @@
+# [BOTCONVERSA - INFRAESTRUTURA COMPLETA]
+
+# Core e Domínios Principais (Cérebro e Interface)
+@@||botconversa.com.br^$important
+@@||app.botconversa.com.br^$important
+@@||backend.botconversa.com.br^$important
+@@||wa-media.botconversa.com.br^$important
+
+# Integrações de IA e Mensageria (Motor de Chat)
+@@||mmg.whatsapp.net^$important
+@@||chatgpt.com^$important
+@@||firebaseio.com^$important
+@@||firebase.google.com^$important
+
+# Armazenamento em Nuvem (AWS S3 - Arquivos e Mídias)
+@@||prod-media-bc.s3.sa-east-1.amazonaws.com^$important
+@@||whatsapp-unnoficial-service-temp-storage-prod.s3.sa-east-1.amazonaws.com^$important
+
+# Suporte, HelpKit e Widgets (Atendimento ao Usuário)
+@@||onrender.com^$important
+@@||helpkit-strapi-production.onrender.com^$important
+@@||intercom.io^$important
+@@||intercom.com^$important
+@@||app.intercom.com^$important
+@@||js.intercomcdn.com^$important
+@@||omappapi.com^$important
+@@||a.omappapi.com^$important
+
+# Analytics, UX e Performance (Métricas de Erro e Uso)
+@@||googletagmanager.com^$important
+@@||www.googletagmanager.com^$important
+@@||google-analytics.com^$important
+@@||www.google-analytics.com^$important
+@@||data.pendo.io^$important
+@@||tools.luckyorange.com^$important
+@@||settings.luckyorange.com^$important
+
+# [DOCUMENTAÇÃO E FERRAMENTAS DE DESENVOLVIMENTO]
+@@||reactrouter.com^$important
+@@||remix.run^$important
