@@ -13,6 +13,28 @@
 Se der problema, eu libero todo o bucket do S3 da Amazon
 #@@||s3.sa-east-1.amazonaws.com^$important
 #========================================================================
+# [AWS - ENDPOINTS GLOBAIS E ESSENCIAIS]
+@@||s3.amazonaws.com^$important
+@@||s3-external-1.amazonaws.com^$important
+@@||amazonaws.com^$important
+
+# [AWS - REGIÃO SÃO PAULO (MUITO USADO NO BRASIL)]
+@@||s3.sa-east-1.amazonaws.com^$important
+@@||s3-sa-east-1.amazonaws.com^$important
+
+# [CLOUDFRONT - ENTREGA DE CONTEÚDO/IMAGENS/SITES]
+@@||cloudfront.net^$important
+
+# [MICROSOFT / WINDOWS UPDATE (USAM AWS PARA DISTRIBUIÇÃO)]
+@@||windowsupdate.com^$important
+@@||microsoft.com^$important
+
+# [SERVIÇOS DE SEGURANÇA E ANTIVÍRUS]
+# (Essencial para baixar vacinas e definições)
+@@||avast.com^$important
+@@||bitdefender.com^$important
+@@||trendmicro.com^$important
+#========================================================================
 # [GITHUB - INFRAESTRUTURA E ENTREGA DE DADOS]
 @@||github.com^$important
 @@||github.io^$important
