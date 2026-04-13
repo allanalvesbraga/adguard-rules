@@ -11,7 +11,7 @@
 @@||cobransaas-prd.s3.sa-east-1.amazonaws.com^$important
 @@||cobransaas.com^$important
 Se der problema, eu libero todo o bucket do S3 da Amazon
-@@||s3.sa-east-1.amazonaws.com^$important
+#@@||s3.sa-east-1.amazonaws.com^$important
 #========================================================================
 # [GITHUB - INFRAESTRUTURA E ENTREGA DE DADOS]
 @@||github.com^$important
