@@ -14,11 +14,26 @@
 @@||btgpactual.com^$important
 @@||safra.com.br^$important
 @@||banrisul.com.br^$important
+@@||banestes.com.br^$important
+@@||sicoob.com.br^$important
+@@||sicredi.com.br^$important
+@@||cresol.com.br^$important
+@@||next.b.br^$important
+@@||brb.com.br^$important
+@@||bndes.gov.br^$important
+@@||banparanet.com.br^$important
+@@||banese.com.br^$important
+@@||banrural.com.br^$important
+@@||original.com.br^$important
+@@||pan.com.br^$important
+@@||neon.com.br^$important
+@@||willbank.com.br^$important
+@@||cora.com.br^$important
+@@||pagbank.com.br^$important
+@@||picpay.com^$important
 @@||pagseguro.com.br^$important
 @@||mercadopago.com.br^$important
-@@||sicredi.com.br^$important
-@@||sicoob.com.br^$important
-@@||banestes.com.br^$important
+@@||mercadopago.com^$important
 
 # [BANCOS E SERVIÇOS FINANCEIROS GLOBAIS]
 @@||chase.com^$important
@@ -37,8 +52,37 @@
 @@||visa.com^$important
 @@||mastercard.com^$important
 @@||americanexpress.com^$important
+@@||discover.com^$important
+@@||elo.com.br^$important
+@@||hipercard.com.br^$important
+@@||sumup.com^$important
+@@||stone.com.br^$important
+@@||rede.com.br^$important
+@@||cielo.com.br^$important
+@@||getnet.com.br^$important
+@@||pagar.me^$important
+@@||asaas.com^$important
+@@||asaas.com.br^$important
+@@||yapay.com.br^$important
+@@||payu.com^$important
 
-# [ SERVIÇOS DE TELEMETRIA E SEGURANÇA DOS BANCOS]
+# [ INFRAESTRUTURA, AUTENTICAÇÃO E SEGURANÇA]
 @@||akamaihd.net^$important
 @@||edgesuite.net^$important
+@@||cloudflare.com^$important
+@@||cloudfront.net^$important
+@@||amazonaws.com^$important
+@@||azureedge.net^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||firebaseapp.com^$important
+@@||okta.com^$important
+@@||auth0.com^$important
+@@||onelogin.com^$important
+@@||hcaptcha.com^$important
+@@||recaptcha.net^$important
+@@||threatmetrix.com^$important
+@@||lexisnexisrisk.com^$important
+@@||arkoselabs.com^$important
 @@||tmxads.com^$important
+@@||jsdelivr.net^$important
