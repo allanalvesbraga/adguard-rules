@@ -1,4 +1,25 @@
-# [ BANCOS NACIONAIS]
+[ESSENCIAIS]
+@@||cloudflare.com^$important
+@@||cloudfront.net^$important
+@@||akamaihd.net^$important
+@@||edgesuite.net^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||firebaseapp.com^$important
+@@||hcaptcha.com^$important
+@@||recaptcha.net^$important
+@@||threatmetrix.com^$important
+@@||lexisnexisrisk.com^$important
+@@||arkoselabs.com^$important
+@@||onelogin.com^$important
+@@||okta.com^$important
+@@||auth0.com^$important
+@@||azureedge.net^$important
+@@||amazonaws.com^$important
+@@||jsdelivr.net^$important
+@@||tmxads.com^$important
+
+[BANCOS NACIONAIS]
 @@||itau.com.br^$important
 @@||itau.com^$important
 @@||bradesco.com.br^$important
@@ -35,7 +56,7 @@
 @@||mercadopago.com.br^$important
 @@||mercadopago.com^$important
 
-# [BANCOS E SERVIÇOS FINANCEIROS GLOBAIS]
+[BANCOS E SERVIÇOS FINANCEIROS GLOBAIS]
 @@||chase.com^$important
 @@||bankofamerica.com^$important
 @@||wellsfargo.com^$important
@@ -66,23 +87,21 @@
 @@||yapay.com.br^$important
 @@||payu.com^$important
 
-# [ INFRAESTRUTURA, AUTENTICAÇÃO E SEGURANÇA]
-@@||akamaihd.net^$important
-@@||edgesuite.net^$important
-@@||cloudflare.com^$important
-@@||cloudfront.net^$important
-@@||amazonaws.com^$important
-@@||azureedge.net^$important
-@@||googleapis.com^$important
-@@||gstatic.com^$important
-@@||firebaseapp.com^$important
-@@||okta.com^$important
-@@||auth0.com^$important
-@@||onelogin.com^$important
-@@||hcaptcha.com^$important
-@@||recaptcha.net^$important
-@@||threatmetrix.com^$important
-@@||lexisnexisrisk.com^$important
-@@||arkoselabs.com^$important
-@@||tmxads.com^$important
-@@||jsdelivr.net^$important
+[PAGAMENTOS E ADQUIRENCIAS]
+@@||starkbank.com^$important
+@@||zoop.com.br^$important
+@@||ebanx.com^$important
+@@||auth.net^$important
+@@||adyen.com^$important
+@@||worldpay.com^$important
+@@||checkout.com^$important
+@@||klarna.com^$important
+@@||payoneer.com^$important
+
+[PIX E BOLETOS]
+@@||bcb.gov.br^$important
+@@||openfinancebrasil.org.br^$important
+@@||febraban.org.br^$important
+@@||gerencianet.com.br^$important
+@@||asaas.com^$important
+@@||pagar.me^$important
