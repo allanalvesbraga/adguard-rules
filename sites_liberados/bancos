@@ -1,4 +1,4 @@
-[ESSENCIAIS]
+#[ESSENCIAIS]
 @@||cloudflare.com^$important
 @@||cloudfront.net^$important
 @@||akamaihd.net^$important
@@ -19,7 +19,7 @@
 @@||jsdelivr.net^$important
 @@||tmxads.com^$important
 
-[BANCOS NACIONAIS]
+#[BANCOS NACIONAIS]
 @@||itau.com.br^$important
 @@||itau.com^$important
 @@||bradesco.com.br^$important
@@ -56,7 +56,7 @@
 @@||mercadopago.com.br^$important
 @@||mercadopago.com^$important
 
-[BANCOS E SERVIÇOS FINANCEIROS GLOBAIS]
+#[BANCOS E SERVIÇOS FINANCEIROS GLOBAIS]
 @@||chase.com^$important
 @@||bankofamerica.com^$important
 @@||wellsfargo.com^$important
@@ -87,7 +87,7 @@
 @@||yapay.com.br^$important
 @@||payu.com^$important
 
-[PAGAMENTOS E ADQUIRENCIAS]
+#[PAGAMENTOS E ADQUIRENCIAS]
 @@||starkbank.com^$important
 @@||zoop.com.br^$important
 @@||ebanx.com^$important
@@ -98,7 +98,7 @@
 @@||klarna.com^$important
 @@||payoneer.com^$important
 
-[PIX E BOLETOS]
+#[PIX E BOLETOS]
 @@||bcb.gov.br^$important
 @@||openfinancebrasil.org.br^$important
 @@||febraban.org.br^$important
