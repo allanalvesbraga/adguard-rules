@@ -1,10 +1,18 @@
 # [BOTCONVERSA - INFRAESTRUTURA COMPLETA]
 
+@@||*.botconversa.com.br^$important
+
 # Core e Domínios Principais (Cérebro e Interface)
 @@||botconversa.com.br^$important
 @@||app.botconversa.com.br^$important
 @@||backend.botconversa.com.br^$important
 @@||wa-media.botconversa.com.br^$important
+
+@@||api-wa-2.botconversa.com.br^$important
+@@||socket.io^$important
+@@||cdn.botconversa.com.br^$important
+@@||region1.google-analytics.com^$important
+
 
 # Integrações de IA e Mensageria (Motor de Chat)
 @@||mmg.whatsapp.net^$important
